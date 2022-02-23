@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Charter of Londons answer to a scurilous libel intituled its Last will and testament, etc.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32738</idno>
+            <idno type="STC">Wing C3724</idno>
+            <idno type="STC">ESTC R24824</idno>
+            <idno type="EEBO-CITATION">08605858</idno>
+            <idno type="OCLC">ocm 08605858</idno>
+            <idno type="VID">41446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41446)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1250:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Charter of Londons answer to a scurilous libel intituled its Last will and testament, etc.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last will and testament of the charter of London.</term>
+               <term>Municipal charters --  England --  London.</term>
+               <term>London (England) --  Charters, grants, privileges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:41446:1" rendition="simple:additions"/>
+            <head>THE Charter of Londons ANSWER To A Scurilous LIBEL, INTITULED, Its Laſt Will and Teſtament, &amp;c.</head>
+            <opener>
+               <salute>Mr. <hi>Babyloniſh-Bully,</hi>
+               </salute>
+            </opener>
+            <p>THeſe are to Inform you that I— <hi>Philojuris— Loyal Charter</hi> of the City of <hi>London,</hi> (not yet ſo Blinded with the miſt of Ignorance, but that I can diſcern between Hone<g ref="char:EOLhyphen"/>ſty and Knavery, Wiſdom and Folly) having the other day peruſed a Paper, (much to the Scandal of the <hi>Engliſh</hi> Nation, whoſe Metropolis I Grace) Intituled, <hi>My laſt Will and Teſtament,</hi> I could not but ſtand in Admiration that Impudence or rather Ignorance, ſhould be ſo predominant in any Perſon, to Induce him to diſpoſe of (as his Phranzy di<g ref="char:EOLhyphen"/>rected) my Priviledges, Imunities, Enfranchiſements, and what not, without my Privity or any directions from the leaſt of my Loyal Members; as who ſhould ſay there is the Moon catch it, and take it, nay further, to proclaim me <hi>Mortus eſt</hi> to three Kingdoms, at a Juncture wherein my apparent vivacity declares my Body Politick, with all its Members, ſound and Temperate, not Subject to any Heats or other diſorders, that have formerly afficted me: But whilſt I was muſing, who this Scribe ſhould be, one of my Children who had been Inquiſitive in that matter, Informed me that it was drawn up by Mr. <hi>Babiloniſh-Bully</hi> one of his Holineſs Pentioners, who has a long time gaped to devour me at a Morſel, and that it was contrived at a Conſult of <hi>Bethlehemites,</hi> where <hi>Olivers</hi> Porter ſate Chairman, which welcome diſcovery did not a little Calm my Anger, for if it be ſo, (ſaid I) I rather pitty the Brain ſick Rout, then cavel at their Simplicity, taking it for Granted, that it is only a Prodrome or Forerunner of the diſmal effects of the next <hi>Midſummer</hi> Moon. Yet to let the World know that I am Alive, and in good Health, I ſhall not think it amiſs, in Vindication of my ſelf, and to wipe of the aſperſions caſt by this Infamous <hi>Tyburn</hi> Scribler, upon many of my Loyal and Obedient Children, to declare my mind.</p>
+            <p>Then be it known to all my Neighbour Citys, that I owe my Original to the many Roy<g ref="char:EOLhyphen"/>al Grants of the Kings of <hi>England,</hi> His Majeſties, my now Dread Soveraigns Predeceſſors, concerned by Charters and divers Acts of Parliament, and that ſince I was firſt modelled into a Body Politick, conſiſting of Body and Members, as one Man to Plead or be Impleaded, I have frequently and in moſt urgent occaſions, freely expoſe my Treaſure, and hazzarded the Lives of my Children to the utmoſt, in ſupporting that Royal Dignity, from which I recei<g ref="char:EOLhyphen"/>ved my Life and Vigour to Act, and do whatſoever is Juſt and Lawful, ever acknowledging as in Allegiance I am Bound, all Submiſſion and Obedience to my Lord and Maker, by whoſe Power I am Protected, and do Protect my Children from thoſe that greedily gape for their Deſtruction, hoping ſo to continue firm and Inviolable, without any Lett or Alteration, or if I ſhould fall (which Heaven avert) I doubt not but to riſe by the Indulgence of the beſt of Kings, in greater Splendor then (ever though to the great Regret of thoſe) that grow big with the expectation of my utter diſſolution, As for the <hi>Halters</hi> and <hi>Newgates</hi> mentio<g ref="char:EOLhyphen"/>ned in my Pretended <hi>Laſt Will and Teſtament,</hi> had they been decently beſtowed upon the Scribe, and thoſe of his Confedracy, e're they with falſe Rumours, Idle Reports, needleſs
+<pb facs="tcp:41446:2" rendition="simple:additions"/>Fears, and Evil Repreſentations of things, <hi>&amp;c.</hi> had divided my Children, ſo to work their per<g ref="char:EOLhyphen"/>nitious Ends, and bring about what otherwiſe was not in their Power, I had now reſted in Peace, all had been Calm as the <hi>Halcyon-Seas,</hi> a right underſtanding amongſt my Members had continued, and my Antient Luſter had not in the leaſt been Impaired, had the Wolves in Sheeps Cloathing been detected; the Folds had reſted Secure, but as it is, I cannot per<g ref="char:EOLhyphen"/>ſwade my ſelf, but what is paſt will be forgoten and forgiven, and that I and my dear Conſort, <hi>Not yet a Widdow,</hi> Gay as at firſt, may many years walk Hand in Hand, and yet produce a numerous off-ſpring, whoſe Loyalty and Obedience to their Prince may raiſe their Envy higher, who would rejoyce in nothing more then my Anihilation, eſpecially thoſe who Viper like ſeek to deſtroy what's gave them, being whoſe underſtanding are ſo ſhallow, that like <hi>Quickſet,</hi> they cannot diſcern the difference twixt a Windmill and an Armed Knight. Theſe are the greateſt cauſe of my Grief, theſe are my ungracious Children, which I could well ſpare, to Caper betwixt Heaven and Earth, yet to have acceſs to neither but like <hi>Mahomet,</hi> be famed for Hanging in the Air.</p>
+            <p>As Touching my Children aſperſed by the Scandalous Libeller, who would needs under<g ref="char:EOLhyphen"/>take to be my Scribe, though Indeed a very Phariſee or time Serving Hypocrite, it is apparent that his Gaul has overflowed upon them, not ſo much in hatred to their Perſons, as for that they earneſtly Laboured to ſupport me in a time when nothing could more demonſtrate their Gratitude for all the good things that I have heaped upon them, and therefore ſeeing the Mallice is altogether Levelled at me, I ſhall only ſay, that their well deſervings ſhall ſtand Recorded to all Poſterity, whoſe Candid Actions like Chriſtial, will not long admit of ſtains, but ſelf Purged ſhine bright, though never ſo many Vapours riſe to Eclipſe or dimm the Luſter.</p>
+            <p>And now Mr. <hi>Babiloniſh-Bully,</hi> ſince in my Life time, nay, at a time when I was leaſt apprehenſive of any danger, you would needs procure my <hi>Will and Teſtament</hi> to Wrighting and expoſed as portentious, freely diſtributing what was not your own; It will not be amiſs if I ſettle and diſpoſe of a few <hi>Legacies,</hi> with far more Juſtice then any thing you can pretend too.</p>
+            <p>
+               <hi>Imprimus.</hi> To his Majeſty; I tender all Loyalty and Submiſſive Obedience, as in Allegi<g ref="char:EOLhyphen"/>ance and Duty ought and am bound to do.</p>
+            <p>
+               <hi>Item.</hi> I appoint all my Lands, Tennements, Goods, Chattels, Enfranchiſements, Privi<g ref="char:EOLhyphen"/>lidges, Grants, Cuſtoms, Freedoms and Immunities, with all my Enſignes of Honour, to remain in the care of thoſe that now poſſeſs them, till other Loyal Gentlemen are duly Authoriz'd to take upon them thoſe great Truſts.</p>
+            <p>
+               <hi>Item.</hi> To thoſe that ſeek to ſet my Members at Variance, and to Stirr up Diviſions, and Creaſe a wrong underſtanding amongſt my Children, to prevert them from their Duty and Allegiance, I give Free-quarters in the Goal of <hi>New-Gate,</hi> and other ſuch like Manſions within my Liberties, there to take their ſeveral Degrees till they come to be exalted on the Triple-tree.</p>
+            <p>
+               <hi>Item.</hi> To thoſe Time Servers, who like Cammelions can change their Colours to what they Fancy, and alter more frequent then <hi>Proteous</hi> their ſhapes, as beſt Suits to their preſent purpoſe, I give all the Weather-Cocks from <hi>New-Gate</hi> to <hi>Ald Gate,</hi> to make them Head pieces, that by thoſe Marks they may be known.</p>
+            <p>
+               <hi>Item.</hi> To Mr. <hi>Babiloniſh Bully</hi> and his Scribe, in point of Civillity, for the pains they took in writing and Publiſhing my <hi>Laſt Will and Teſtament,</hi> I bequeath all the Whiping-poſts from the <hi>Stocks-Market</hi> to <hi>Temple Barr,</hi> to their peculiar uſes, and ſtrictly commanded my Beadles when ever they meet them, or either of them, within my Liberties, without delay to put them in poſſeſſion of my Donation, and without Favour or Affection ſupply them with ſuch Materials as thereto appertain, and for ſo doing, this ſhall be their ſufficient Warrant.</p>
+            <p>
+               <hi>Item.</hi> I laſtly Order, that my Grave Council, Learned in the Law, by whoſe Wiſdom I have hitherto been preſerved in prefect health, be incouraged to proceed in what they have undertaken, for the performance of which, and the ſeveral particulars above men<g ref="char:EOLhyphen"/>tioned, I bind my ſelf and my Members, in one Intire Body politick, in the Four Hun<g ref="char:EOLhyphen"/>dred Year of my Age, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Entred According to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
